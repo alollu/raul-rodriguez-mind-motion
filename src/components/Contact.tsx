@@ -4,7 +4,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
-import { Mail, Phone, MapPin, Calendar } from "lucide-react";
+import { Mail, Phone, MapPin, Calendar, Linkedin } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const Contact = () => {
@@ -33,6 +33,12 @@ const Contact = () => {
       title: "Email",
       value: "tupsicologo.domicilio@gmail.com",
       href: "mailto:tupsicologo.domicilio@gmail.com"
+    },
+    {
+      icon: Linkedin,
+      title: "LinkedIn",
+      value: "linkedin.com/in/raulrodriguezotero",
+      href: "https://www.linkedin.com/in/raulrodriguezotero"
     },
     {
       icon: Phone,

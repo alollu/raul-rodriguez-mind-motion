@@ -6,6 +6,13 @@ const Blog = () => {
   // Publicaciones destacadas basadas en tu experiencia
   const publications = [
     {
+      title: "La terapia en casa: cuando el proceso empieza en el propio entorno del paciente",
+      excerpt: "Desde hace años me dedico, casi en exclusiva, a ofrecer terapia en el domicilio. Cuando la sesión ocurre en casa, el proceso cambia profundamente. Las barreras bajan antes y el vínculo se construye más rápido.",
+      date: "2024-03-01",
+      category: "Terapia a Domicilio",
+      readTime: "7 min"
+    },
+    {
       title: "Gestión de la Ansiedad en el Deporte de Alto Rendimiento",
       excerpt: "Técnicas específicas para atletas que enfrentan presión competitiva y cómo mantener el control emocional durante las competiciones más importantes.",
       date: "2024-02-15",
