@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/logo-hero.jpg";
+import logoPrimary from "@/assets/logo-primary.png";
 
 const Hero = () => {
   const scrollToContact = () => {
@@ -25,9 +25,9 @@ const Hero = () => {
               <span className="text-primary">y Deportivo</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-              Especialista en psicología sanitaria y deportiva. Te ayudo a superar obstáculos, 
-              mejorar tu bienestar mental y alcanzar tu máximo rendimiento tanto en la vida 
-              personal como en el deporte.
+              Psicólogo General Sanitario con más de 15 años de experiencia en salud mental, 
+              psicoterapia y evaluación diagnóstica. Especialista en psicología deportiva 
+              y 5º Dan en Karate. Te ayudo con un enfoque integrador basado en evidencia científica.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button
@@ -51,9 +51,9 @@ const Hero = () => {
           <div className="animate-slide-up lg:order-first">
             <div className="relative">
               <img
-                src={heroImage}
+                src={logoPrimary}
                 alt="Raúl Rodríguez Otero - Psicólogo Sanitario y Deportivo"
-                className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
+                className="w-full max-w-sm mx-auto drop-shadow-2xl"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent rounded-2xl"></div>
             </div>

@@ -6,22 +6,22 @@ const About = () => {
     {
       icon: GraduationCap,
       title: "Formación Académica",
-      description: "Licenciado en Psicología con especialización en Psicología Sanitaria y Deportiva"
+      description: "Licenciado en Psicología (UAM), Máster en Psicología del Deporte, Recursos Humanos e Integración"
     },
     {
       icon: Award,
-      title: "Experiencia Profesional",
-      description: "Más de 10 años de experiencia tratando pacientes y deportistas de alto rendimiento"
+      title: "Experiencia Deportiva",
+      description: "5º Dan en Karate y Técnico Deportivo Nivel I de la Federación Madrileña de Karate"
     },
     {
       icon: Users,
-      title: "Pacientes Atendidos",
-      description: "Más de 1000 personas han confiado en mi para mejorar su bienestar y rendimiento"
+      title: "Especialización Clínica",
+      description: "Experto en ansiedad, duelo, trauma, discapacidad intelectual y emergencias psicológicas"
     },
     {
       icon: Clock,
-      title: "Disponibilidad",
-      description: "Consultas presenciales y online adaptadas a tu horario y necesidades"
+      title: "Modalidad de Trabajo",
+      description: "Psicólogo freelance a domicilio con consultas presenciales y online personalizadas"
     }
   ];
 
@@ -29,16 +29,16 @@ const About = () => {
     <section id="sobre-mi" className="py-20 gradient-subtle">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
-          <div className="text-center mb-16 animate-fade-in">
-            <h2 className="text-4xl font-bold mb-4">
-              <span className="bg-gradient-to-r from-primary to-primary-light bg-clip-text text-transparent">
-                Sobre Mí
-              </span>
-            </h2>
-            <p className="text-xl text-muted-foreground">
-              Conoce mi trayectoria y compromiso con la salud mental
-            </p>
-          </div>
+        <div className="text-center mb-16 animate-fade-in">
+          <h2 className="text-4xl font-bold mb-4">
+            <span className="bg-gradient-to-r from-primary to-primary-light bg-clip-text text-transparent">
+              Mi Experiencia Profesional
+            </span>
+          </h2>
+          <p className="text-xl text-muted-foreground">
+            Más de 15 años dedicado a la salud mental y el bienestar
+          </p>
+        </div>
 
           <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="animate-slide-up">
@@ -47,19 +47,20 @@ const About = () => {
               </h3>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Como psicólogo sanitario y deportivo colegiado, mi pasión es ayudar a las personas 
-                  a superar sus dificultades y alcanzar su máximo potencial tanto en la vida personal 
-                  como en el ámbito deportivo.
+                  Como Psicólogo General Sanitario colegiado con más de 15 años de experiencia, 
+                  mi compromiso es ofrecer un tratamiento integral que combine la evidencia científica 
+                  con un enfoque humano y personalizado.
                 </p>
                 <p>
-                  Mi enfoque se basa en la evidencia científica y en un trato cercano y personalizado. 
-                  Creo firmemente que cada persona es única y merece un tratamiento adaptado a sus 
-                  necesidades específicas.
+                  Mi formación incluye Licenciatura en Psicología (UAM), Máster en Psicología del Deporte, 
+                  Máster en Recursos Humanos y Máster en Integración de Personas con Discapacidad. 
+                  Como 5º Dan en Karate y Técnico Deportivo Nivel I, aporto una perspectiva única 
+                  que integra disciplina deportiva y bienestar mental.
                 </p>
                 <p>
-                  A lo largo de mi carrera, he tenido el privilegio de trabajar con deportistas de 
-                  diferentes niveles, desde amateur hasta profesional, así como con personas que 
-                  buscan mejorar su bienestar mental y calidad de vida.
+                  Especializado en trastornos de ansiedad, intervención en duelo y trauma, 
+                  discapacidad intelectual y optimización del rendimiento deportivo. 
+                  Actualmente ofrezco terapia presencial y online con un enfoque flexible y actualizado.
                 </p>
               </div>
             </div>
