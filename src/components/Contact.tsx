@@ -15,8 +15,24 @@ const Contact = () => {
     e.preventDefault();
     setIsSubmitting(true);
     
-    // Simulate form submission
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    const formData = new FormData(e.currentTarget);
+    const nombre = formData.get('nombre');
+    const apellidos = formData.get('apellidos');
+    const email = formData.get('email');
+    const servicio = formData.get('servicio');
+    const mensaje = formData.get('mensaje');
+    
+    // Create mailto link
+    const subject = `Consulta de ${nombre} ${apellidos}`;
+    const body = `Nombre: ${nombre} ${apellidos}
+Email: ${email}
+Servicio de interés: ${servicio}
+
+Mensaje:
+${mensaje}`;
+    
+    const mailtoLink = `mailto:tupsicologo.domicilio@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = mailtoLink;
     
     toast({
       title: "Mensaje enviado",
@@ -39,12 +55,6 @@ const Contact = () => {
       title: "LinkedIn",
       value: "linkedin.com/in/raulrodriguezotero",
       href: "https://www.linkedin.com/in/raulrodriguezotero"
-    },
-    {
-      icon: Phone,
-      title: "Teléfono",
-      value: "+34 XXX XXX XXX",
-      href: "tel:+34XXXXXXXXX"
     },
     {
       icon: MapPin,
@@ -181,15 +191,6 @@ const Contact = () => {
                     />
                   </div>
                   
-                  <div>
-                    <Label htmlFor="telefono">Teléfono</Label>
-                    <Input
-                      id="telefono"
-                      name="telefono"
-                      type="tel"
-                      className="border-border focus:border-primary"
-                    />
-                  </div>
                   
                   <div>
                     <Label htmlFor="servicio">Servicio de Interés</Label>

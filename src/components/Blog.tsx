@@ -145,6 +145,7 @@ const Blog = () => {
                 <Button 
                   size="lg"
                   className="gradient-primary text-primary-foreground hover:opacity-90"
+                  onClick={() => window.open('https://www.linkedin.com/in/raulrodriguezotero', '_blank')}
                 >
                   Ver Todas las Publicaciones
                 </Button>
