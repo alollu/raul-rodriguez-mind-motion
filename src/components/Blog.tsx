@@ -6,6 +6,13 @@ const Blog = () => {
   // Publicaciones destacadas basadas en tu experiencia
   const publications = [
     {
+      title: "Aprender a perder para ganar de verdad: lecciones de la Vuelta a España y la psicología deportiva",
+      excerpt: "Solo uno de los 184 ciclistas que toman la salida gana la Vuelta a España. ¿Qué ocurre con los otros 183? Pedro Delgado lo tiene claro: 'Corrí once Tours y solo gané uno. Estamos enseñando a los jóvenes a ganar, cuando deberíamos enseñarles a perder, porque esa es la experiencia más habitual en el deporte y en la vida'.",
+      date: "2024-09-09",
+      category: "Psicología Deportiva",
+      readTime: "18 min"
+    },
+    {
       title: "La terapia en casa: cuando el proceso empieza en el propio entorno del paciente",
       excerpt: "Desde hace años me dedico, casi en exclusiva, a ofrecer terapia en el domicilio. Cuando la sesión ocurre en casa, el proceso cambia profundamente. Las barreras bajan antes y el vínculo se construye más rápido.",
       date: "2024-03-01",
