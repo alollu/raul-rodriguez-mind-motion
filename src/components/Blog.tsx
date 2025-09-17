@@ -8,6 +8,29 @@ import { useState } from "react";
 const Blog = () => {
   const [selectedPost, setSelectedPost] = useState(null);
 
+  // Function to render text with clickable links
+  const renderTextWithLinks = (text) => {
+    const urlRegex = /(https?:\/\/[^\s]+)/g;
+    const parts = text.split(urlRegex);
+    
+    return parts.map((part, index) => {
+      if (urlRegex.test(part)) {
+        return (
+          <a 
+            key={index} 
+            href={part} 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-primary hover:underline break-all"
+          >
+            {part}
+          </a>
+        );
+      }
+      return part;
+    });
+  };
+
   // Publicaciones destacadas basadas en tu experiencia
   const publications = [
     {
@@ -735,13 +758,13 @@ La intervención psicológica en crisis es una especialidad que requiere formaci
                                 if (paragraph.startsWith('## ')) {
                                   return <h2 key={idx} className="text-xl font-semibold mt-6 mb-3">{paragraph.slice(3)}</h2>;
                                 } else if (paragraph.startsWith('**') && paragraph.endsWith('**')) {
-                                  return <p key={idx} className="font-semibold mb-2">{paragraph.slice(2, -2)}</p>;
+                                  return <p key={idx} className="font-semibold mb-2">{renderTextWithLinks(paragraph.slice(2, -2))}</p>;
                                 } else if (paragraph.startsWith('- ')) {
-                                  return <li key={idx} className="ml-4 mb-1">{paragraph.slice(2)}</li>;
+                                  return <li key={idx} className="ml-4 mb-1">{renderTextWithLinks(paragraph.slice(2))}</li>;
                                 } else if (paragraph.trim() === '') {
                                   return <div key={idx} className="h-2" />;
                                 } else {
-                                  return <p key={idx} className="mb-3 leading-relaxed">{paragraph}</p>;
+                                  return <p key={idx} className="mb-3 leading-relaxed">{renderTextWithLinks(paragraph)}</p>;
                                 }
                               })
                             ) : (
