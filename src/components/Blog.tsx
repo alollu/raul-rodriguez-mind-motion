@@ -659,7 +659,7 @@ La intervención psicológica en crisis es una especialidad que requiere formaci
   ];
 
   const stats = [
-    { number: "420+", label: "Artículos Publicados" },
+    { number: "250", label: "Artículos Publicados" },
     { number: "15+", label: "Años de Experiencia" },
     { number: "130+", label: "Proyectos Completados" },
     { number: "280+", label: "Visitas Mensuales" }
@@ -787,10 +787,38 @@ La intervención psicológica en crisis es una especialidad que requiere formaci
                 <h3 className="text-2xl font-semibold mb-4 text-foreground">
                   ¿Quieres acceder a todas mis publicaciones?
                 </h3>
-                <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-                  Explora más de 420 artículos sobre psicología sanitaria, deportiva, 
-                  técnicas terapéuticas y casos clínicos en mi blog completo.
+                <p className="text-muted-foreground mb-6 max-w-3xl mx-auto">
+                  Explora más de 250 artículos sobre psicología sanitaria, deportiva, 
+                  técnicas terapéuticas, casos clínicos y casos con pacientes con discapacidad 
+                  de años anteriores (desde 2008) basados en mi experiencia profesional en:
                 </p>
+                <div className="text-left max-w-4xl mx-auto mb-6">
+                  <div className="grid md:grid-cols-2 gap-4 text-sm text-muted-foreground">
+                    <div>
+                      <p className="font-semibold text-foreground mb-2">Fundación INLADE / Asociación Astor | 2011 – 2013</p>
+                      <ul className="ml-4 space-y-1">
+                        <li>• Atención a personas con discapacidad intelectual y enfermedad mental</li>
+                        <li>• Programas de apoyo conductual positivo y rehabilitación psicosocial logrando una reducción del 25% en conductas disruptivas</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <p className="font-semibold text-foreground mb-2">Profesor de Karate Infantil y Juvenil – Gimnasio K.D Grandal y Solaz S.L | 2000 – 2006 / 2016 – Actualidad</p>
+                      <ul className="ml-4 space-y-1">
+                        <li>• Entrenamiento físico, disciplina y trabajo en equipo +100 alumnos infantiles y juveniles</li>
+                        <li>• Organización de competiciones y eventos deportivos</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <p className="font-semibold text-foreground mb-2">Prácticas Psicología Deportiva – CAR Madrid / Federación Española de Karate | 2006 – 2007</p>
+                      <ul className="ml-4 space-y-1">
+                        <li>• Apoyo psicológico a deportistas de alto rendimiento</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <p className="font-semibold text-foreground mb-2">Técnico de RRHH – Entel IT / Indra | 2008-2011</p>
+                    </div>
+                  </div>
+                </div>
                 <Button 
                   size="lg"
                   className="gradient-primary text-primary-foreground hover:opacity-90"
