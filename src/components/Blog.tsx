@@ -859,6 +859,406 @@ Mi formación en psicología aportó una perspectiva valiosa:
 - Desarrollo de estrategias de comunicación efectiva
 
 Esta experiencia demostró que la psicología organizacional es esencial para humanizar los entornos tecnológicos y maximizar el potencial de las personas en la era digital.`
+    },
+    {
+      title: "Terapias Personalizadas en Consulta Privada: Un Enfoque Integral",
+      excerpt: "La intervención psicológica en consulta privada permite desarrollar terapias completamente personalizadas. Con más de 200 pacientes atendidos desde 2014, comparto las claves del diseño terapéutico individualizado.",
+      date: "2023-11-15",
+      category: "Psicología Clínica",
+      readTime: "16 min",
+      content: `Desde 2014 hasta la actualidad, mi experiencia en consulta privada me ha permitido desarrollar un enfoque integral de intervención psicológica que se adapta a las necesidades específicas de cada persona.
+
+## La Importancia de la Personalización en Terapia
+
+Cada persona que acude a consulta trae consigo una historia única, un contexto particular y unas necesidades específicas. Durante estos años, he trabajado con más de 200 pacientes de diferentes edades - niños, adolescentes y adultos - enfrentando diversos desafíos psicológicos.
+
+**Principales Áreas de Intervención**
+- Trastornos de ansiedad y estrés
+- Procesos de duelo y pérdida
+- Problemas de autoestima y desarrollo personal
+- Dificultades relacionales y familiares
+- Trastornos del estado de ánimo
+
+## Modelos Terapéuticos Integrados
+
+Mi formación y experiencia me han permitido integrar diferentes enfoques terapéuticos según las necesidades del paciente:
+
+**Terapia Cognitivo-Conductual**
+- Identificación y modificación de patrones de pensamiento disfuncionales
+- Técnicas de exposición gradual para fobias y ansiedad
+- Entrenamiento en habilidades de afrontamiento
+
+**Enfoque Humanístico**
+- Creación de un espacio terapéutico seguro y empático
+- Facilitación del autodescubrimiento y crecimiento personal
+- Trabajo centrado en la persona y sus recursos internos
+
+**Terapia Sistémica**
+- Análisis de patrones familiares y relacionales
+- Intervención en sistemas familiares disfuncionales
+- Trabajo con parejas y familias
+
+## Estrategias de Motivación y Adherencia
+
+Uno de los logros más significativos ha sido conseguir un aumento del 30% en la adherencia al tratamiento mediante:
+
+**Técnicas de Motivación**
+- Establecimiento de objetivos realistas y medibles
+- Celebración de pequeños logros durante el proceso
+- Adaptación del ritmo terapéutico a cada persona
+
+**Seguimiento Individualizado**
+- Revisiones periódicas de progreso
+- Ajuste continuo de estrategias terapéuticas
+- Comunicación abierta sobre dificultades y resistencias
+
+## Casos Representativos
+
+**Niños y Adolescentes**
+- Trabajo con ansiedad escolar y social
+- Problemas de conducta y gestión emocional
+- Apoyo en procesos de duelo infantil
+
+**Adultos**
+- Trastornos de ansiedad generalizada
+- Depresión y trastornos del estado de ánimo
+- Crisis vitales y transiciones
+
+## Aprendizajes de la Práctica Clínica
+
+La experiencia en consulta privada me ha enseñado que:
+
+- La alianza terapéutica es fundamental para el éxito del tratamiento
+- La flexibilidad metodológica permite mejor adaptación a cada caso
+- La formación continua es esencial para ofrecer intervenciones actualizadas
+- El autocuidado del terapeuta impacta directamente en la calidad de la atención
+
+La psicología clínica privada ofrece un espacio privilegiado para el desarrollo de intervenciones profundas y transformadoras, donde cada persona puede encontrar su camino hacia el bienestar psicológico.`
+    },
+    {
+      title: "Apoyo Conductual Positivo: Experiencias en Discapacidad Intelectual",
+      excerpt: "Durante mi trabajo en Fundación INLADE/Asociación Astor (2011-2013) desarrollamos programas innovadores de apoyo conductual positivo que lograron reducir en un 25% las conductas disruptivas en personas con discapacidad intelectual.",
+      date: "2023-05-20",
+      category: "Psicología de la Discapacidad",
+      readTime: "18 min",
+      content: `Mi experiencia en Fundación INLADE/Asociación Astor entre 2011 y 2013 marcó profundamente mi comprensión sobre la intervención psicológica en personas con discapacidad intelectual y enfermedad mental.
+
+## El Desafío del Apoyo Conductual Positivo
+
+Trabajar con personas que presentan discapacidad intelectual asociada a problemas de salud mental requiere un enfoque especializado que trascienda los modelos tradicionales de intervención.
+
+**Características de la Población Atendida**
+- Personas con discapacidad intelectual de diferentes grados
+- Comorbilidad con trastornos mentales
+- Conductas disruptivas que afectaban su calidad de vida
+- Necesidades de apoyo para la integración social
+
+## Metodología de Apoyo Conductual Positivo
+
+Implementamos un modelo basado en los principios del Positive Behavior Support (PBS), que se centra en:
+
+**Análisis Funcional de la Conducta**
+- Identificación de antecedentes y consecuencias de conductas problema
+- Comprensión de la función comunicativa de las conductas disruptivas
+- Evaluación del contexto ambiental y social
+
+**Estrategias Proactivas**
+- Modificación del entorno para prevenir situaciones problemáticas
+- Enseñanza de habilidades alternativas de comunicación
+- Desarrollo de rutinas estructuradas y predecibles
+
+**Intervención Centrada en la Persona**
+- Planes individualizados basados en intereses y preferencias
+- Participación activa de la persona en la toma de decisiones
+- Respeto por la dignidad y autodeterminación
+
+## Programas de Rehabilitación Psicosocial
+
+Desarrollamos intervenciones integrales que incluían:
+
+**Habilidades Sociales y Comunicación**
+- Entrenamiento en habilidades de interacción social
+- Uso de sistemas aumentativos de comunicación cuando era necesario
+- Fomento de la expresión emocional apropiada
+
+**Autonomía Personal**
+- Desarrollo de habilidades de vida diaria
+- Entrenamiento en toma de decisiones
+- Promoción de la independencia gradual
+
+**Integración Comunitaria**
+- Actividades de ocio inclusivas
+- Participación en recursos comunitarios
+- Desarrollo de redes de apoyo social
+
+## Resultados y Evaluación
+
+Los resultados obtenidos fueron significativos:
+
+**Reducción del 25% en Conductas Disruptivas**
+- Disminución de episodios de agresividad
+- Reducción de autolesiones
+- Menor frecuencia de crisis conductuales
+
+**Mejora en Calidad de Vida**
+- Mayor participación en actividades
+- Mejores relaciones interpersonales
+- Incremento en la satisfacción personal y familiar
+
+## Trabajo Multidisciplinario
+
+La intervención exitosa requirió colaboración estrecha con:
+
+- Terapeutas ocupacionales
+- Trabajadores sociales
+- Educadores sociales
+- Familias y cuidadores principales
+- Profesionales médicos
+
+## Aprendizajes Clave
+
+Esta experiencia me enseñó que:
+
+- Las conductas disruptivas a menudo son formas de comunicación
+- El cambio del entorno puede ser más efectivo que intentar cambiar solo a la persona
+- La participación de las familias es crucial para el éxito
+- Los pequeños cambios pueden tener grandes impactos en la calidad de vida
+- La paciencia y la constancia son virtudes esenciales en este campo
+
+El trabajo con personas con discapacidad intelectual y enfermedad mental me permitió desarrollar una perspectiva más amplia sobre la diversidad humana y la importancia de crear entornos verdaderamente inclusivos.`
+    },
+    {
+      title: "Karate Infantil: Disciplina y Desarrollo Integral",
+      excerpt: "Más de 20 años enseñando karate a niños y jóvenes me han permitido comprender el poder transformador de las artes marciales en el desarrollo físico, mental y emocional de más de 100 alumnos.",
+      date: "2023-08-10",
+      category: "Psicología Deportiva",
+      readTime: "14 min",
+      content: `Mi experiencia como profesor de karate infantil y juvenil, desarrollada en dos períodos (2000-2006 y 2016-actualidad) en el Gimnasio K.D Grandal y Solaz S.L, me ha permitido trabajar con más de 100 niños y jóvenes, observando el impacto transformador de las artes marciales en su desarrollo integral.
+
+## Más Allá del Deporte: Desarrollo Integral
+
+El karate infantil no es solo una actividad física; es una herramienta de desarrollo personal que aborda múltiples dimensiones:
+
+**Desarrollo Físico**
+- Mejora de la coordinación y equilibrio
+- Fortalecimiento muscular progresivo
+- Desarrollo de la flexibilidad y agilidad
+- Conciencia corporal y control motor
+
+**Desarrollo Mental**
+- Capacidad de concentración y atención
+- Memoria y aprendizaje secuencial
+- Resolución de problemas motores
+- Autocontrol y autorregulación
+
+**Desarrollo Emocional**
+- Gestión de la frustración y el fracaso
+- Construcción de autoestima y confianza
+- Respeto hacia uno mismo y hacia otros
+- Canalización positiva de la energía
+
+## Metodología Pedagógica Adaptada
+
+Trabajar con niños y jóvenes requiere una adaptación constante de la metodología:
+
+**Enseñanza Progresiva**
+- Adaptación de técnicas según edad y capacidad
+- Uso de juegos para introducir conceptos complejos
+- Refuerzo positivo constante
+- Celebración de pequeños logros
+
+**Disciplina Positiva**
+- Establecimiento de límites claros y consistentes
+- Modelado de comportamientos respetuosos
+- Consecuencias naturales y lógicas
+- Fomento de la responsabilidad personal
+
+## El Valor del Trabajo en Equipo
+
+Aunque el karate puede parecer un deporte individual, he desarrollado un enfoque que enfatiza:
+
+**Colaboración y Apoyo Mutuo**
+- Trabajo en parejas para práctica de técnicas
+- Ayuda entre compañeros de diferentes niveles
+- Actividades grupales que requieren coordinación
+- Fomento del compañerismo y la solidaridad
+
+**Competencia Sana**
+- Énfasis en la superación personal más que en ganar
+- Respeto hacia los oponentes
+- Aprendizaje de la victoria y la derrota
+- Desarrollo del fair play
+
+## Organización de Eventos Deportivos
+
+La organización de competiciones y eventos ha sido una parte fundamental de mi trabajo:
+
+**Competiciones Locales**
+- Torneos internos del dojo
+- Participación en campeonatos regionales
+- Organización de exhibiciones públicas
+- Ceremonias de graduación y entrega de cinturones
+
+**Beneficios de la Competición**
+- Aplicación práctica de lo aprendido
+- Gestión de nervios y presión
+- Desarrollo de metas a corto y largo plazo
+- Construcción de experiencias significativas
+
+## Casos de Transformación
+
+A lo largo de estos años, he sido testigo de transformaciones notables:
+
+**Niños Tímidos que Ganan Confianza**
+- Mejora en la autoestima y expresión personal
+- Desarrollo de habilidades sociales
+- Mayor participación en otras actividades
+
+**Jóvenes con Problemas de Conducta**
+- Canalización positiva de la agresividad
+- Desarrollo de autocontrol y disciplina
+- Mejora en el rendimiento académico
+
+**Desarrollo de Liderazgo**
+- Estudiantes avanzados que se convierten en asistentes
+- Desarrollo de habilidades de enseñanza
+- Responsabilidad hacia los compañeros más jóvenes
+
+## Integración de Psicología y Artes Marciales
+
+Mi formación en psicología ha enriquecido mi enfoque como instructor:
+
+- Comprensión del desarrollo cognitivo y emocional infantil
+- Aplicación de principios de aprendizaje motor
+- Detección temprana de dificultades emocionales o sociales
+- Comunicación efectiva con padres y familias
+
+## Impacto a Largo Plazo
+
+Los beneficios del karate infantil trascienden el dojo:
+
+- Mejora en el rendimiento académico
+- Desarrollo de hábitos saludables
+- Construcción de amistades duraderas
+- Formación de valores sólidos para la vida adulta
+
+La enseñanza del karate infantil me ha demostrado que el deporte, cuando se enfoca adecuadamente, es una de las herramientas más poderosas para el desarrollo integral de niños y jóvenes.`
+    },
+    {
+      title: "Psicología Deportiva de Alto Rendimiento: Experiencias en el CAR Madrid",
+      excerpt: "Durante mis prácticas en el Centro de Alto Rendimiento de Madrid y la Federación Española de Karate (2006-2007), pude experimentar de primera mano el apoyo psicológico a deportistas de élite.",
+      date: "2023-02-28",
+      category: "Psicología Deportiva",
+      readTime: "15 min",
+      content: `Mi experiencia de prácticas en el Centro de Alto Rendimiento (CAR) de Madrid y la Federación Española de Karate durante 2006-2007 me proporcionó una perspectiva única sobre la psicología deportiva aplicada al alto rendimiento.
+
+## El Mundo del Alto Rendimiento Deportivo
+
+El CAR Madrid representa la excelencia deportiva española, donde convergen atletas de diferentes disciplinas que persiguen un objetivo común: alcanzar el máximo nivel competitivo posible.
+
+**Características del Entorno de Alto Rendimiento**
+- Presión constante por resultados
+- Competencia interna y externa intensa
+- Equilibrio complejo entre vida deportiva y personal
+- Gestión de expectativas propias y externas
+
+## Desafíos Psicológicos Específicos del Karate
+
+El karate de competición presenta desafíos únicos que requieren intervención psicológica especializada:
+
+**Aspectos Técnicos y Mentales**
+- Precisión y timing en la ejecución técnica
+- Control de la distancia (ma-ai) y timing
+- Gestión de la agresividad controlada
+- Concentración en combates de corta duración pero alta intensidad
+
+**Presiones Competitivas**
+- Sistemas de puntuación complejos
+- Decisiones arbitrales que pueden generar frustración
+- Competiciones por eliminatoria directa
+- Representación nacional e internacional
+
+## Estrategias de Apoyo Psicológico Implementadas
+
+Durante este período, participé en la aplicación de diversas técnicas:
+
+**Entrenamiento en Habilidades Mentales**
+- Técnicas de visualización y imagery mental
+- Rutinas pre-competitivas personalizadas
+- Entrenamiento en focus atencional
+- Gestión de la activación y relajación
+
+**Trabajo con Autoconfianza**
+- Desarrollo de autocharlas positivas
+- Construcción de fortalezas mentales individuales
+- Gestión de la autoexigencia y perfeccionismo
+- Fortalecimiento de la identidad deportiva
+
+**Manejo de la Presión Competitiva**
+- Técnicas de control de ansiedad pre-competitiva
+- Estrategias para competir bajo presión
+- Gestión de las expectativas externas
+- Recuperación psicológica post-derrota
+
+## Trabajo Multidisciplinario
+
+La intervención psicológica en el CAR se integra dentro de un equipo multidisciplinario:
+
+**Colaboración con Entrenadores**
+- Comunicación constante sobre estados mentales de los atletas
+- Adaptación de entrenamientos según aspectos psicológicos
+- Desarrollo conjunto de estrategias de motivación
+
+**Coordinación con Preparadores Físicos**
+- Comprensión de la fatiga mental y física
+- Integración de aspectos psicológicos en la preparación física
+- Gestión de lesiones y retorno a la competición
+
+**Apoyo Médico y Nutricional**
+- Aspectos psicológicos de la alimentación deportiva
+- Gestión psicológica de lesiones
+- Adherencia a tratamientos y programas de recuperación
+
+## Casos de Intervención
+
+**Gestión de Ansiedad Competitiva**
+Trabajo con karatecas que experimentaban ansiedad excesiva antes de competir, desarrollando rutinas personalizadas de preparación mental.
+
+**Recuperación de Lesiones**
+Apoyo psicológico durante procesos de rehabilitación, manteniendo la motivación y gestionando el miedo al retorno.
+
+**Optimización del Rendimiento**
+Trabajo con atletas ya exitosos para maximizar su potencial mediante refinamiento de habilidades mentales.
+
+## Aprendizajes sobre la Elite Deportiva
+
+Esta experiencia me enseñó aspectos fundamentales del deporte de alto nivel:
+
+**La Importancia de lo Mental**
+- A nivel técnico similar, lo mental marca la diferencia
+- La preparación psicológica debe ser tan sistemática como la física
+- Los pequeños detalles mentales pueden determinar resultados
+
+**Individualización de la Intervención**
+- Cada deportista requiere un enfoque personalizado
+- Las estrategias exitosas con uno pueden no funcionar con otro
+- La flexibilidad del psicólogo deportivo es crucial
+
+**Presión y Rendimiento**
+- Gestionar la presión es una habilidad entrenable
+- La presión puede ser aliada o enemiga según su gestión
+- El trabajo preventivo es más efectivo que la intervención en crisis
+
+## Impacto en mi Desarrollo Profesional
+
+La experiencia en el CAR Madrid influyó profundamente en mi comprensión de:
+
+- La psicología aplicada al rendimiento humano
+- La importancia del trabajo en equipo multidisciplinario
+- Las demandas específicas del deporte de elite
+- La necesidad de formación continua y especializada
+
+Esta experiencia sentó las bases para mi posterior trabajo integrando psicología y deporte, demostrando que el rendimiento óptimo surge de la armonía entre mente y cuerpo.`
     }
   ];
 
@@ -989,19 +1389,14 @@ Esta experiencia demostró que la psicología organizacional es esencial para hu
             <Card className="border-primary/20 bg-gradient-to-r from-accent/50 to-background">
               <CardContent className="p-8">
                 <h3 className="text-2xl font-semibold mb-4 text-foreground">
-                  ¿Quieres acceder a todas mis publicaciones?
+                  ¿Quieres saber un poco más sobre mi?
                 </h3>
-                <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-                  Explora más de 250 artículos sobre psicología sanitaria, deportiva, 
-                  técnicas terapéuticas, casos clínicos y casos con pacientes con discapacidad 
-                  de años anteriores basados en mi experiencia profesional en:
-                </p>
                 <Button 
                   size="lg"
                   className="gradient-primary text-primary-foreground hover:opacity-90"
                   onClick={() => window.open('https://www.linkedin.com/in/raulrodriguezotero', '_blank')}
                 >
-                  Ver Todas las Publicaciones
+                  Sobre Mi
                 </Button>
               </CardContent>
             </Card>
