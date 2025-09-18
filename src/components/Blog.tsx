@@ -655,6 +655,210 @@ Los programas de intervención en crisis deben incluir:
 - Mejora continua basada en evidencia
 
 La intervención psicológica en crisis es una especialidad que requiere formación específica, práctica supervisada y actualización continua para garantizar respuestas efectivas en los momentos más difíciles de las personas.`
+    },
+    {
+      title: "Apoyo Conductual Positivo en Discapacidad Intelectual: Una Experiencia Transformadora",
+      excerpt: "La implementación de programas de apoyo conductual positivo en personas con discapacidad intelectual y enfermedad mental dual requiere un enfoque multidisciplinar que priorice la dignidad y el bienestar de cada individuo.",
+      date: "2012-05-15",
+      category: "Psicología de la Discapacidad",
+      readTime: "12 min",
+      content: `Durante mi experiencia en la Fundación INLADE y Asociación Astor (2011-2013), trabajé directamente con personas que presentaban el desafío dual de discapacidad intelectual y enfermedad mental. Esta combinación requiere una intervención especializada que comprenda las complejidades de ambas condiciones.
+
+## El Enfoque del Apoyo Conductual Positivo
+
+El apoyo conductual positivo (PBS, por sus siglas en inglés) representa un cambio paradigmático en el abordaje de las conductas desafiantes. En lugar de centrarse únicamente en la reducción de comportamientos problemáticos, este enfoque busca:
+
+- Comprender las funciones comunicativas de las conductas
+- Enseñar habilidades alternativas más funcionales
+- Modificar los entornos para prevenir situaciones problemáticas
+- Reforzar comportamientos positivos de manera sistemática
+
+## Resultados y Aprendizajes
+
+Nuestra implementación de estos programas logró una reducción del 25% en conductas disruptivas, pero más importante aún, observamos mejoras significativas en:
+
+- Calidad de vida de los usuarios
+- Participación en actividades de la vida diaria
+- Relaciones interpersonales más positivas
+- Reducción del estrés familiar y del equipo de apoyo
+
+## La Importancia del Trabajo Multidisciplinar
+
+El éxito de estos programas radica en la colaboración estrecha entre psicólogos, terapeutas ocupacionales, trabajadores sociales, familias y cuidadores. Cada perspectiva aporta elementos esenciales para comprender y abordar las necesidades complejas de esta población.
+
+La intervención en discapacidad intelectual nos enseña que todos, independientemente de nuestras capacidades, tenemos el derecho fundamental a vivir con dignidad y desarrollar nuestro máximo potencial.`
+    },
+    {
+      title: "Psicología Deportiva Infantil: Formando Campeones en Valores",
+      excerpt: "El trabajo con más de 100 alumnos infantiles y juveniles de karate me ha enseñado que el verdadero campeonato no se gana en el tatami, sino en la formación integral de la persona.",
+      date: "2018-03-20",
+      category: "Psicología Deportiva",
+      readTime: "10 min",
+      content: `Durante más de 15 años combinados (2000-2006 y 2016-actualidad) como profesor de karate infantil y juvenil en el Gimnasio K.D Grandal y Solaz S.L, he tenido el privilegio de formar a más de 100 alumnos, observando de primera mano cómo el deporte impacta en el desarrollo psicológico de niños y adolescentes.
+
+## Más Allá de la Técnica: Formación Integral
+
+El karate infantil trasciende el aprendizaje de técnicas marciales. Se convierte en una escuela de vida donde los jóvenes desarrollan:
+
+**Disciplina y Autocontrol**
+- Capacidad de seguir instrucciones
+- Gestión de impulsos
+- Respeto por las normas y límites
+
+**Confianza y Autoestima**
+- Superación de miedos personales
+- Reconocimiento de logros propios
+- Desarrollo de una autoimagen positiva
+
+**Trabajo en Equipo**
+- Colaboración en ejercicios grupales
+- Apoyo mutuo entre compañeros
+- Liderazgo responsable
+
+## La Organización de Competiciones: Lecciones de Vida
+
+Coordinar competiciones y eventos deportivos ha sido una de las experiencias más enriquecedoras. Estos eventos enseñan:
+
+- **Gestión de la presión**: Aprender a competir manteniendo la calma
+- **Respeto al rival**: Valorar el esfuerzo del oponente
+- **Aceptación de resultados**: Ganar y perder con dignidad
+- **Superación personal**: Competir consigo mismo más que con otros
+
+## El Impacto Psicológico del Deporte Infantil
+
+La práctica deportiva estructurada en la infancia genera beneficios psicológicos duraderos:
+
+- Mejora la regulación emocional
+- Desarrolla la tolerancia a la frustración
+- Fortalece la perseverancia
+- Construye relaciones sociales saludables
+
+Como educadores deportivos, nuestra responsabilidad va más allá de enseñar técnicas: formamos personas que llevarán estos valores toda su vida.`
+    },
+    {
+      title: "Psicología del Alto Rendimiento: Experiencias en el CAR Madrid",
+      excerpt: "El trabajo con deportistas de élite en el Centro de Alto Rendimiento de Madrid y la Federación Española de Karate me enseñó que la fortaleza mental es tan importante como la preparación física.",
+      date: "2007-01-10",
+      category: "Psicología Deportiva",
+      readTime: "14 min",
+      content: `Durante mis prácticas de psicología deportiva en el CAR Madrid y la Federación Española de Karate (2006-2007), tuve la oportunidad de trabajar con deportistas de alto rendimiento, una experiencia que transformó mi comprensión sobre los límites del potencial humano.
+
+## El Desafío Mental del Alto Rendimiento
+
+Los deportistas de élite enfrentan presiones únicas que van más allá del entrenamiento físico:
+
+**Presión por Resultados**
+- Expectativas mediáticas y sociales
+- Responsabilidad hacia patrocinadores y federaciones
+- Metas de clasificación a competiciones internacionales
+
+**Gestión del Estrés Competitivo**
+- Ansiedad pre-competitiva
+- Manejo de la activación óptima
+- Control atencional bajo presión
+
+**Vida Personal vs. Deportiva**
+- Sacrificios familiares y sociales
+- Gestión del tiempo y prioridades
+- Mantenimiento de la motivación a largo plazo
+
+## Estrategias Psicológicas Implementadas
+
+Durante mi período de prácticas, participé en la implementación de diversas técnicas:
+
+**Visualización y Preparación Mental**
+- Ensayo mental de técnicas y estrategias
+- Visualización de escenarios competitivos
+- Preparación para situaciones adversas
+
+**Control de la Activación**
+- Técnicas de respiración y relajación
+- Rutinas pre-competitivas
+- Estrategias de autorregulación emocional
+
+**Fortalecimiento de la Autoconfianza**
+- Trabajo con diálogo interno positivo
+- Establecimiento de metas procesales
+- Desarrollo de la autoeficacia deportiva
+
+## Aprendizajes para la Vida
+
+Trabajar con deportistas de alto rendimiento me enseñó que la excelencia no es casualidad, sino el resultado de:
+
+- Compromiso inquebrantable con objetivos a largo plazo
+- Capacidad de mantener la motivación tras las derrotas
+- Búsqueda constante de la mejora marginal
+- Equilibrio entre determinación y flexibilidad mental
+
+Estos principios trascienden el deporte y se aplican a cualquier área de alto desempeño en la vida.`
+    },
+    {
+      title: "Psicología Organizacional en el Sector Tecnológico: Gestión Humana en la Era Digital",
+      excerpt: "Mi experiencia como Técnico de RRHH en Entel IT e Indra me permitió aplicar principios psicológicos en la gestión del talento humano en empresas tecnológicas en plena transformación digital.",
+      date: "2009-11-08",
+      category: "Psicología Organizacional",
+      readTime: "13 min",
+      content: `Durante mi período como Técnico de Recursos Humanos en Entel IT e Indra (2008-2011), pude aplicar conocimientos de psicología organizacional en un sector en constante evolución: la tecnología de la información.
+
+## El Factor Humano en Empresas Tecnológicas
+
+Las empresas de IT enfrentan desafíos únicos en la gestión del talento:
+
+**Perfiles Profesionales Especializados**
+- Alta demanda de competencias técnicas específicas
+- Necesidad de actualización constante
+- Equilibrio entre especialización y versatilidad
+
+**Culturas Organizacionales Dinámicas**
+- Estructuras horizontales y equipos multidisciplinares
+- Metodologías ágiles y adaptación al cambio
+- Innovación como valor corporativo central
+
+**Gestión de Generaciones Diversas**
+- Integración de nativos digitales y veteranos del sector
+- Diferentes enfoques hacia el trabajo y la tecnología
+- Conciliación de expectativas laborales variadas
+
+## Estrategias de Gestión Humana Implementadas
+
+Durante este período, participé en diversas iniciativas:
+
+**Selección y Evaluación de Talento**
+- Desarrollo de competencias técnicas y blandas
+- Evaluación de capacidad de adaptación al cambio
+- Identificación de potencial de liderazgo tecnológico
+
+**Programas de Desarrollo Profesional**
+- Planes de carrera en entornos tecnológicos
+- Formación continua en nuevas tecnologías
+- Mentoring entre profesionales senior y junior
+
+**Clima Organizacional y Bienestar**
+- Prevención del burnout en profesionales IT
+- Promoción del trabajo en equipo
+- Gestión del estrés en proyectos de alta exigencia
+
+## Aprendizajes sobre Liderazgo en la Era Digital
+
+Esta experiencia me enseñó que liderar en el sector tecnológico requiere:
+
+- **Flexibilidad mental**: Adaptarse a cambios tecnológicos constantes
+- **Visión estratégica**: Anticipar tendencias y necesidades futuras
+- **Habilidades relacionales**: Gestionar equipos diversos y multiculturales
+- **Aprendizaje continuo**: Mantenerse actualizado sin perder la perspectiva humana
+
+La tecnología avanza, pero las necesidades humanas fundamentales permanecen: reconocimiento, desarrollo personal, sentido de pertenencia y propósito en el trabajo.
+
+## Integración de la Perspectiva Psicológica en RRHH
+
+Mi formación en psicología aportó una perspectiva valiosa:
+
+- Comprensión profunda de la motivación humana
+- Análisis de dinámicas grupales y liderazgo
+- Aplicación de principios de psicología del aprendizaje
+- Desarrollo de estrategias de comunicación efectiva
+
+Esta experiencia demostró que la psicología organizacional es esencial para humanizar los entornos tecnológicos y maximizar el potencial de las personas en la era digital.`
     }
   ];
 
@@ -787,38 +991,11 @@ La intervención psicológica en crisis es una especialidad que requiere formaci
                 <h3 className="text-2xl font-semibold mb-4 text-foreground">
                   ¿Quieres acceder a todas mis publicaciones?
                 </h3>
-                <p className="text-muted-foreground mb-6 max-w-3xl mx-auto">
+                <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
                   Explora más de 250 artículos sobre psicología sanitaria, deportiva, 
                   técnicas terapéuticas, casos clínicos y casos con pacientes con discapacidad 
-                  de años anteriores (desde 2008) basados en mi experiencia profesional en:
+                  de años anteriores basados en mi experiencia profesional en:
                 </p>
-                <div className="text-left max-w-4xl mx-auto mb-6">
-                  <div className="grid md:grid-cols-2 gap-4 text-sm text-muted-foreground">
-                    <div>
-                      <p className="font-semibold text-foreground mb-2">Fundación INLADE / Asociación Astor | 2011 – 2013</p>
-                      <ul className="ml-4 space-y-1">
-                        <li>• Atención a personas con discapacidad intelectual y enfermedad mental</li>
-                        <li>• Programas de apoyo conductual positivo y rehabilitación psicosocial logrando una reducción del 25% en conductas disruptivas</li>
-                      </ul>
-                    </div>
-                    <div>
-                      <p className="font-semibold text-foreground mb-2">Profesor de Karate Infantil y Juvenil – Gimnasio K.D Grandal y Solaz S.L | 2000 – 2006 / 2016 – Actualidad</p>
-                      <ul className="ml-4 space-y-1">
-                        <li>• Entrenamiento físico, disciplina y trabajo en equipo +100 alumnos infantiles y juveniles</li>
-                        <li>• Organización de competiciones y eventos deportivos</li>
-                      </ul>
-                    </div>
-                    <div>
-                      <p className="font-semibold text-foreground mb-2">Prácticas Psicología Deportiva – CAR Madrid / Federación Española de Karate | 2006 – 2007</p>
-                      <ul className="ml-4 space-y-1">
-                        <li>• Apoyo psicológico a deportistas de alto rendimiento</li>
-                      </ul>
-                    </div>
-                    <div>
-                      <p className="font-semibold text-foreground mb-2">Técnico de RRHH – Entel IT / Indra | 2008-2011</p>
-                    </div>
-                  </div>
-                </div>
                 <Button 
                   size="lg"
                   className="gradient-primary text-primary-foreground hover:opacity-90"
